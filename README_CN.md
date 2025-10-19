@@ -1,6 +1,6 @@
 # 系统性金融风险监测数据分析项目
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/systemic_financial_risk_monitoring-Data_Analysis)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ZajacMo/systemic_financial_risk_monitoring-Data_Analysis)](LICENSE)
 [English](README.md)
 
 ## 项目简介
